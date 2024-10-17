@@ -14,24 +14,6 @@ namespace Patterns
 
         static void Main(string[] args)
         {
-            int n = 3;
-            
-            for (int i =1; i <= n; i++)
-            {
-                for (int j = i; j < n; j++)
-                { 
-                    Console.Write("");
-
-                }
-                for (int k = i; k <= n; k++)
-
-                {
-                    Console.Write(" ab");
-
-                }
-
-                Console.WriteLine();
-            }
             }
 
         }
